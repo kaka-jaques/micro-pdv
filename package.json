@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "@nestjs/mapped-types": "*"
+  },
   "devDependencies": {
     "@angular/cli": "^14.2.9"
   }
